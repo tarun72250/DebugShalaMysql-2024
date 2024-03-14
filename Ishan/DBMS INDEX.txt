@@ -1,0 +1,43 @@
+#MySQL Basic Topic-20
+days-20 days complete,(20hours)
+Lab-extra 10 hours
+1.Introduction to DBMS
+2.DataBase Design
+3.Dealing with simple table.
+4.SQL Constraints(Not Null, Unique, Check, Default, Auto increment,Primary Key , Foreign Key)
+5.Keys in DataBase(Primary Key , Foreign Key, )
+------Revision------
+6.Operators.
+7.DDl Restricting records and sorting.
+8.In-built Functions.(String fn,Date and Time Fn, Mathematics and Statics fn).
+9.Aggregate fn
+10.DML operations.
+------Revision------
+11.Concept of views.Relational Algebra Operations.
+12.Concept of Indexes
+13.Nested Queries , subqueries and correlated queries.
+14.Using Joins and Types of Joins.
+15.
+------Revision------
+16.
+17.
+18.Users and Permissions.
+19.Transactions in DataBase and Acid Properties.
+20.DML in MYSQL Normalisation.
+
+#Mysql Advanced Topic-10
+days-5 days complete,(10hours)
+Lab-extra 5 hours
+1.PL/SQL Basics
+2.------Revision------
+3.Stored procedures.
+4.Functions.
+5.------Revision------
+6.Triggors.
+7.Using Cursors.
+8.------Revision------
+9.Exception Handling.
+10.------Revision------
+
+Normalization.corelated queries, joins (equi joins , non equi joins), Transactions in DataBase, Conecpt of views,Indexes.
+
